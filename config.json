@@ -58,8 +58,7 @@
           "type": "csv"
         }
       ]
-    }
-    ,
+    },
     {
       "id": "fastapi-rest-apis",
       "title": "Building REST APIs with FastAPI",
@@ -70,6 +69,20 @@
         {
           "name": "Starter Code",
           "file": "starter_code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "unit-testing-with-pytest",
+      "title": "Unit Testing with pytest",
+      "description": "Learn the fundamentals of automated testing by writing unit tests with pytest. Develop test cases for a calculator module and understand the red-green-refactor cycle.",
+      "path": "assignments/unit-testing-with-pytest",
+      "dueDate": "2026-05-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
           "type": "python"
         }
       ]
